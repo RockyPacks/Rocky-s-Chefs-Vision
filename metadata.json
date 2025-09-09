@@ -1,0 +1,8 @@
+{
+  "name": "Rocky's Chef's Vision",
+  "description": "An AI-powered cooking assistant that recognizes ingredients from your photos, generates personalized recipes, and provides voice-guided instructions to elevate your culinary experience. Developed by Morokolo Chueu.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
